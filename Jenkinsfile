@@ -15,7 +15,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git 'https://github.com/juvpengele/laravel-react-forum.git'
+                git 'https://github.com/aqeelgardezi/testing.git'
             }
         }
 
